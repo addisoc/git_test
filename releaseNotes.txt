@@ -1,0 +1,30 @@
+i add something else to this
+
+  ddad79c || Fixed the bug for this crap (#3) || Author:addisoc
+  967f25d || add a new feature to AP (#4) || Author:addisoc
+  31a6fa9 || add a new feature 1 || Author:Addison Chung
+
+
+  db4a56a || add second line || Author:Addison Chung
+  ada3ad5 || initial readme || Author:Addison Chung
+  5da944b || message || Author:Addison Chung
+
+
+  ddad79c || Fixed the bug for this crap (#3) || Author:addisoc
+  967f25d || add a new feature to AP (#4) || Author:addisoc
+  31a6fa9 || add a new feature 1 || Author:Addison Chung
+
+
+  db4a56a || add second line || Author:Addison Chung
+  ada3ad5 || initial readme || Author:Addison Chung
+  5da944b || message || Author:Addison Chung
+
+
+  ddad79c || Fixed the bug for this crap (#3) || Author:addisoc
+  967f25d || add a new feature to AP (#4) || Author:addisoc
+  31a6fa9 || add a new feature 1 || Author:Addison Chung
+
+
+  db4a56a || add second line || Author:Addison Chung
+  ada3ad5 || initial readme || Author:Addison Chung
+  5da944b || message || Author:Addison Chung
