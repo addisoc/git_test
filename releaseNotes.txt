@@ -1,4 +1,6 @@
 eyyyy what up
+ok now it's fixed
+ok dokie
 	i add something else to this
 
   ddad79c || Fixed the bug for this crap (#3) || Author:addisoc
